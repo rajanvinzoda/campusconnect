@@ -1,8 +1,0 @@
-{
-  "name": "CampusConnect AI",
-  "description": "Role-based university education management and campus community ecosystem",
-  "requestFramePermissions": [],
-  "majorCapabilities": [
-    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
-  ]
-}
